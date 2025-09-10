@@ -9,7 +9,7 @@ int main(void) {
 	char password[10];
 
 	printf("Enter the password: ");
-	scanf("%s", password);
+	scanf("%s", password); //Equivalent to: &(password[0])
 	
 	//If the user enter "friend", set flag to 1
 	if (strcmp(password, "friend") == 0) {
