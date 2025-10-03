@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\csec201-2251-02\UsesDLL\UsesDLL\Source.c(56,21): warning C4020: 'fun3': too many actual parameters
+D:\csec201-2251-02\UsesDLL\UsesDLL\Source.c(52,12): warning C4113: 'math_fun1' differs in parameter lists from 'math_fun2'
+  UsesDLL.vcxproj -> D:\csec201-2251-02\UsesDLL\Debug\UsesDLL.exe
