@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\ExampleDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E21643-1D5E-4817-9A10-6EB2F880B5BA}|ExampleDLL\\ExampleDLL.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\ExampleDLL\\ExampleDLL\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4E21643-1D5E-4817-9A10-6EB2F880B5BA}|ExampleDLL\\ExampleDLL.vcxproj|solutionrelative:ExampleDLL\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\ExampleDLL\\ExampleDLL\\dllmain.cpp",
+              "RelativeDocumentMoniker": "ExampleDLL\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\ExampleDLL\\ExampleDLL\\dllmain.cpp",
+              "RelativeToolTip": "ExampleDLL\\dllmain.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-25T01:16:54.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
