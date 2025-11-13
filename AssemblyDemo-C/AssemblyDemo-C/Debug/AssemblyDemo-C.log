@@ -1,0 +1,3 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Source.c
+  AssemblyDemo-C.vcxproj -> C:\Users\rboics\csec201-public\csec201-02-2251-inclass\AssemblyDemo-C\Debug\AssemblyDemo-C.exe

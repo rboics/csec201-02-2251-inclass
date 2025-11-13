@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\AssemblyDemo-FunctionCalling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F287D719-217B-4961-8BF0-47AFD17A59A8}|AssemblyDemo-FunctionCalling\\AssemblyDemo-FunctionCalling.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\AssemblyDemo-FunctionCalling\\AssemblyDemo-FunctionCalling\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F287D719-217B-4961-8BF0-47AFD17A59A8}|AssemblyDemo-FunctionCalling\\AssemblyDemo-FunctionCalling.vcxproj|solutionrelative:AssemblyDemo-FunctionCalling\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.asm",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\AssemblyDemo-FunctionCalling\\AssemblyDemo-FunctionCalling\\source.asm",
+              "RelativeDocumentMoniker": "AssemblyDemo-FunctionCalling\\source.asm",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-02-2251-inclass\\AssemblyDemo-FunctionCalling\\AssemblyDemo-FunctionCalling\\source.asm",
+              "RelativeToolTip": "AssemblyDemo-FunctionCalling\\source.asm",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-11T20:36:56.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
