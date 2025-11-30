@@ -27,6 +27,8 @@ main PROC c
 	mov eax,0
 	mov [ebp-4],eax	;x=0
 
+	mov ecx, 900	;We're going to need this later on
+
 	;save registers to prevent scanf from modifying
 	push eax
 	push ebx
